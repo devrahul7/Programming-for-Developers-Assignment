@@ -1,4 +1,5 @@
-// Question 1
+package Question1;
+// Question 1 a)
 // Maximizing Tech Startup Revenue before Acquisition
 // A tech startup, AlgoStart, is planning to get acquired by a larger company. To negotiate a higher
 // acquisition price, AlgoStart wants to increase its revenue by launching a few high-return projects.
